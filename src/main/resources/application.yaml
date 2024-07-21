@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Diego
+  r2dbc:
+    url: r2dbc:postgresql://monorail.proxy.rlwy.net:20489/railway
+    username: postgres
+    password: UlirgbVzgbDtruGpjHRpDdxFAbHXvPRa
